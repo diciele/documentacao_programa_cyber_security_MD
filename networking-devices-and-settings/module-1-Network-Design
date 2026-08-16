@@ -1,0 +1,33 @@
+# Módulo 1: Dispositivos de Rede e Configuração Inicial
+
+**Curso:** Dispositivos de Rede e Configuração Inicial  
+**Programa:** Mulher Digital (Cisco)  
+**Tópicos:** Arquitetura de Rede e Confiabilidade
+
+---
+
+## 📌 Arquitetura de Rede e Arquitetura Confiável
+
+A arquitetura de rede possui **quatro aspectos principais de confiabilidade**: Tolerância a Falhas, Escalabilidade, Qualidade de Serviço (QoS) e Segurança.
+
+### 1. Tolerância a Falhas (Fault Tolerance)
+* Ocorre quando a operação pode continuar sem interrupções, mesmo quando um ou mais componentes falham.
+* **Redundância:** Quanto mais redundância temos em uma rede, maior é a tolerância a falhas.
+* **Roteamento de Pacotes:** Os pacotes de uma mesma mensagem podem ser enviados por caminhos totalmente diferentes através da rede.
+
+### 2. Escalabilidade (Scalability)
+* É a capacidade da rede de se expandir rapidamente para oferecer suporte a novos usuários e aplicações.
+* Novos usuários podem se conectar à rede sem atrapalhar ou prejudicar o desempenho de quem já estava lá antes.
+
+### 3. Qualidade de Serviço (QoS - Quality of Service)
+* **Largura de Banda (Bandwidth):** É a quantidade de bits que conseguem ser transmitidos em um único segundo (bits por segundo / bps).
+* **Priorização:** O foco da Qualidade de Serviço é priorizar tráfegos sensíveis ao tempo. Por exemplo, uma chamada de voz/vídeo terá prioridade maior do que o carregamento de uma página HTML, pois atrasos em chamadas impactam diretamente a comunicação em tempo real.
+
+### 4. Segurança de Rede
+Quando falamos de segurança de rede, dividimos o conceito em dois pilares:
+
+* **Segurança da Infraestrutura:** Proteger fisicamente os dispositivos que fornecem conectividade e impedir o acesso não autorizado aos softwares de gerenciamento desses equipamentos.
+* **Segurança da Informação:** Proteger os dados e informações contidas nos pacotes que trafegam na rede. Para isso, segue-se os três pilares principais (Tríade CIA):
+  * **Confidencialidade:** Garantir que apenas destinatários autorizados leiam os dados.
+  * **Integridade:** Garantir que a informação não foi alterada no caminho.
+  * **Disponibilidade:** Garantir o acesso confiável e oportuno aos dados para usuários autorizados.
