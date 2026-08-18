@@ -1,0 +1,11 @@
+## 📌 Overview
+This module covers the core concepts of cloud computing, cloud service models, and the fundamentals of virtualization. It also includes hands-on experience setting up a virtualized environment.
+
+## 📚 Topics Covered
+* **Cloud & Cloud Services:** Concepts of cloud computing, scalability, and service models.
+* **Virtualization & Hypervisors:** Understanding how hypervisors abstract hardware to create isolated virtual environments (Type 1 vs. Type 2).
+* **Advantages of Virtualization:** Efficient resource utilization, isolation, cost reduction, and scalability.
+
+## 🛠️ Hands-on Lab
+* **Hypervisor Setup:** Installed and configured a Virtual Machine (VM) manager.
+* **OS Deployment:** Installed and booted **Linux Ubuntu** within the VM environment.
