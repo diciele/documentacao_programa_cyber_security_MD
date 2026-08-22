@@ -1,3 +1,8 @@
 Hexadecimal and IPv6 Addresses
 Video - Converting Between Hexadecimal and Decimal Numbering Systems
 Check Your Understanding - Convert Between Decimal to Hexadecimal Number Systems
+
+
+Sistema Binário (Base 2): Conversão entre binário e decimal, representação de dados em bits e aplicação em endereços IPv4 (octetos de 8 bits).
+Sistema Hexadecimal (Base 16): Estrutura de base 16 (0-9, A-F), conversão entre binário, decimal e hexadecimal, e sua utilização em endereços IPv6 e MAC Address.
+Prática: Exercícios de conversão de dados, lógica de jogos numéricos e cálculo de endereçamento de rede.
