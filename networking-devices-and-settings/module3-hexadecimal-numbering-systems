@@ -6,3 +6,13 @@ Check Your Understanding - Convert Between Decimal to Hexadecimal Number Systems
 Sistema Binário (Base 2): Conversão entre binário e decimal, representação de dados em bits e aplicação em endereços IPv4 (octetos de 8 bits).
 Sistema Hexadecimal (Base 16): Estrutura de base 16 (0-9, A-F), conversão entre binário, decimal e hexadecimal, e sua utilização em endereços IPv6 e MAC Address.
 Prática: Exercícios de conversão de dados, lógica de jogos numéricos e cálculo de endereçamento de rede.
+
+
+Para converter de decimal para binario vamos contando a partir da posicao 128 na tabela. Onde tiver um numero que iremos utilizar na soma nos colocamos o 1 e 0 onde não vamos utilizar.
+
+Para converter do contrario é só calcular onde tiver 1 na tabela.
+
+De decima para hexa primeiro convertemos para binario e depois dividimos em 2 grupos de 4 numeros. depois em uma tabela de 8 4 2 1 cada, e obtemos o numero em hexadecimal.
+
+Essa foi a forma mais facil que achei ate hoje de fazer a conversao manualmente.
+Fiquei surpresa porque agora ja consigo fazer sem nem precisar olhar para a tabela de bits.
