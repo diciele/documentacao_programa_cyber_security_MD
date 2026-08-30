@@ -2,3 +2,7 @@ Explain the OSI model layer 1 and Layer 2 functions
 How the ethernet sblayers are related to the frame fields
 The types of ethernet MAC addresses
 How a switch builds its MAC address table and forwards frames..
+
+ethernet frames and layers
+How a Mac Address Table works
+
